@@ -8,6 +8,7 @@ dependencies:
   - pip:
       - langchain-openai
       - langchain-core
+      - langchain_huggingface
       - python-dotenv
       - streamlit
       - langchain-community
@@ -30,3 +31,4 @@ dependencies:
       - PyPDF2
       - langchain-objectbox
       - langchain
+      - ipykernel
